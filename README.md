@@ -1,2 +1,2 @@
 # Downloader-Application
-You can download any image , any pdf file , etc.. just copy the URL these file (you to download)  and paste in this application. your file easy &amp; success to downloaded!! and download this app for study purpose and make it better than me.
+You can download any image , any pdf file , etc.. just copy the URL these file (you wnat to download)  and paste in this application. your file easy &amp; success to downloaded!! and download this app for study purpose and make it better than me.
